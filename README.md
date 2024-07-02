@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Front-end
 <img alt="my front-end skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,react,next" />
 
-#### training now😅
+#### now training😅
 <img alt="my front-end training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,vue,nuxt" />
 
 ### Back-end, infra
