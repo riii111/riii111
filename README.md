@@ -27,13 +27,16 @@ Here are some ideas to get you started:
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 ### Front-end
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,react,next,html,css,vue,nuxt" />
+<img alt="my front-end skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,react,next" />
+
+#### training now😅
+<img alt="my front-end training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,vue,nuxt" />
 
 ### Back-end, infra
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,django,nestjs,js,ts,aws" />
+<img alt="my back-end skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,django,nestjs,js,ts,aws" />
 
 ### others
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp" />
+<img alt="my others skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp" />
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
