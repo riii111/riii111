@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <img alt="my front-end training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,vue,nuxt" />
 
 ### Back-end, infra
-<img alt="my back-end skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,django,js,ts,nestjs,aws" />
+<img alt="my back-end skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,django,js,ts,nestjs,docker,aws" />
 
 ### others
-<img alt="my others skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp" />
+<img alt="my others skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,linux" />
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
