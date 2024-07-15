@@ -29,14 +29,15 @@ Here are some ideas to get you started:
 ### Front-end
 <img alt="my front-end skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,react,next" />
 
-#### now training😅
-<img alt="my front-end training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,vue,nuxt" />
-
 ### Back-end, infra
-<img alt="my back-end skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,django,ts,nestjs,docker,aws" />
+<img alt="my back-end skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,django,ts,nestjs,mysql,postgresql,docker,aws" />
 
 ### others
 <img alt="my others skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,linux" />
+
+#### now training😅
+<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,vue,nuxt,go" />
+
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
