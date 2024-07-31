@@ -36,7 +36,10 @@ Here are some ideas to get you started:
 <img alt="my others skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,linux" />
 
 #### now training😅
-<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,vue,nuxt,go" />
+<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,vue,nuxt" />
+
+#### I'm very interested in 🧐
+<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,actix,cloudflare" />
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
