@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vue,nuxt" />
 
 #### I'm very interested in 🧐
-<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,actix,svelte, cloudflare" />
+<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,actix,svelte,gcp,cloudflare" />
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
