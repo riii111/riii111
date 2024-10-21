@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 <img alt="my front-end skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next" />
 
 ### Back-end, infra
-<img alt="my back-end skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=python,fastapi,django,ts,nestjs,mysql,postgresql,docker,aws" />
+<img alt="my back-end skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=python,fastapi,graphql,django,ts,nestjs,mongodb,postgresql,mysql,docker,aws" />
 
 ### others
 <img alt="my others skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,linux" />
 
 #### now training😅
-<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vue,nuxt,mongodb" />
+<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vue,nuxt" />
 
 #### I'm very interested in 🧐
 <img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,actix,svelte,gcp,cloudflare" />
