@@ -1,5 +1,5 @@
 ## Hi there 👋
-Back-end Engineer😄
+I'm a backend engineer who likes `Rust`😄
 
 <!--![riii111's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riii111&show_icons=true&theme=radical)　-->
 <!--
@@ -29,19 +29,16 @@ Here are some ideas to get you started:
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 ### Front-end
-<img alt="my front-end skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next" />
+<img alt="my front-end skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,ts,react,next,vue,nuxt" />
 
 ### Back-end, infra
-<img alt="my back-end skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=python,fastapi,graphql,django,ts,nestjs,mongodb,postgresql,mysql,docker,aws" />
+<img alt="my back-end skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=rust,actix,python,fastapi,graphql,django,ts,nestjs,mongodb,postgresql,mysql,docker,aws" />
 
 ### others
 <img alt="my others skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,linux" />
 
-#### now training😅
-<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vue,nuxt" />
-
 #### I'm very interested in 🧐
-<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,actix,svelte,gcp,cloudflare" />
+<img alt="my training skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=svelte,gcp,cloudflare" />
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
