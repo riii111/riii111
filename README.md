@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a backend engineer who likes `Rust`😄
+I'm a backend engineer who likes to build web apps with Next.js x Rust 🦀
 
 <!--![riii111's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riii111&show_icons=true&theme=radical)　-->
 <!--
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
+## 🏃‍♀️ Private Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-2ptj.vercel.app/api?username=riii111&theme=vision-friendly-dark&layout=compact&show_icons=true" />
   <img alt="github stats" height="170px" src="https://github-readme-stats-2ptj.vercel.app/api/top-langs/?username=riii111&theme=vision-friendly-dark&layout=compact&show_icons=true" />
