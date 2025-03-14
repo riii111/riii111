@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 ## 🏃‍♀️ Private Activities
 <div align="left"> 
   <img alt="Github Stats" height="170px" src="https://github-readme-stats-2ptj.vercel.app/api?username=riii111&theme=vision-friendly-dark&layout=compact&show_icons=true" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats-2ptj.vercel.app/api/top-langs/?username=riii111&theme=vision-friendly-dark&layout=compact&show_icons=true" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riii111&theme=vision-friendly-dark&layout=compact&show_icons=true" />
 </div>
