@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a backend engineer who likes to build web apps with Next.js x Rust 🦀
+I'm a software engineer 🦀
 
 ## 🌱 Skills
 ### Front-end
