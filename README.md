@@ -20,7 +20,7 @@
 
 <h3>🚀 Technical Philosophy</h3>
 <p>
-  Leveraging deep expertise in low-level systems (C/C++) to architect high-performance, robust web backends and scalable cloud infrastructure.
+  Leverage your expertise in low level systems (C/C++) to design high performance and robust web backends and scalable cloud infrastructures.
 </p>
 
 <h3>🛠 Tech Stack</h3>
