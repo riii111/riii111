@@ -1,17 +1,13 @@
-<h1 align="center">Hi there👋</h1>
+<h2 align="center">Hi there👋</h2>
 
 <p align="center">
   <b>Tech Lead & Architecting</b><br>
   From Embedded Systems (C/C++) to Modern Web & Cloud Native
 </p>
 
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/0-profile-details.svg" width="70%" alt="Profile Details">
 </div>
-
-<br>
 
 <table border="0" width="100%">
 <tr>
@@ -75,14 +71,12 @@
 
 </td>
 <!-- 【右側】 Stats (Pie Charts only) -->
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <h3>📊 Languages</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/1-repos-per-language.svg" width="100%" alt="Repos per Language">
-  <br><br>
   <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/2-most-commit-language.svg" width="100%" alt="Most Commit Language">
-  <br><br>
   <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/3-stats.svg" width="100%" alt="Stats">
   
 </div>
