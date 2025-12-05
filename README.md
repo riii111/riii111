@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/0-profile-details.svg" width="70%" alt="Profile Details">
+  <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/0-profile-details.svg" width="80%" alt="Profile Details">
 </div>
 
 <table border="0" width="100%">
