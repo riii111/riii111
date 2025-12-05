@@ -13,10 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Debug token prefix
-        run: echo "TOKEN_PREFIX=${GITHUB_TOKEN:0:4}"
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+      - name: Check secret exists
+        run: echo "HAS_SECRET=${{ secrets.SUMMARY_CARDS_TOKEN != '' }}"
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
