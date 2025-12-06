@@ -77,9 +77,8 @@
 <h3>📊 Languages</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/1-repos-per-language.svg" width="100%" alt="Repos per Language">
-  <br/><br/>
+  <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/2-most-commit-language.svg" width="100%" alt="Stats">
   <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/3-stats.svg" width="100%" alt="Stats">
-  
 </div>
 
 </td>
