@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/noctis_minimus/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg)
-```
-
-    
