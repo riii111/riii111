@@ -5,21 +5,17 @@
   From Embedded Systems (C/C++) to Modern Web & Cloud Native
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/0-profile-details.svg" width="80%" alt="Profile Details">
-</div>
-
 <table border="0" width="100%">
 <tr>
 <!-- 【左側】 Bio & Tech Stack -->
 <td width="60%" valign="top">
 
-<h3>🚀 Technical Philosophy</h3>
+<h3>Technical Philosophy</h3>
 <p>
   Leverage your expertise in low level systems (C/C++) to design high-performance and robust web backends and scalable cloud infrastructures.
 </p>
 
-<h3>🛠 Tech Stack</h3>
+<h3>Tech Stack</h3>
 
 <!-- 1. Embedded / Core -->
 <p><b>System & Core (Low Latency)</b></p>
@@ -74,7 +70,7 @@
 <!-- 【右側】 Stats (Pie Charts only) -->
 <td width="40%" valign="top">
 
-<h3>📊 Languages</h3>
+<h3>Languages</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/1-repos-per-language.svg" width="100%" alt="Repos per Language">
   <img src="https://raw.githubusercontent.com/riii111/riii111/main/profile-summary-card-output/moonlight/2-most-commit-language.svg" width="100%" alt="Stats">
